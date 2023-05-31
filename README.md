@@ -12,7 +12,7 @@ As a newly hired data analyst at AtliQ, my objective is to develop comprehensive
 
 Additionally, I am tasked with creating a **market performance report** by calculating the net sales for each country in 2021. Furthermore, I will utilize the target dataset for 2021 to compare the actual net sales achieved in 2021 against the target.
 
-##  Demonstrated Skills aquired in this Project
+##  Demonstrated Skills acquired in this Project
 - Data Understanding and Exploration
 - Data Transformation and Cleaning
 - Establishing Relationships between Tables
