@@ -92,6 +92,13 @@ The performance verses target report indicates that all countries analyzed fell 
 
 By visually depicting the performance against the target, the report allows stakeholders to assess the effectiveness of sales strategies, identify areas of improvement, and make informed decisions regarding future sales planning and target setting. It serves as a valuable tool for performance evaluation, enabling the organization to align its efforts with the defined goals and make necessary adjustments for continuous growth and success.
 
+## Profit and Loss by Fiscal Year
+As part of the project, I further created a profit and loss report by integrating additional data provided by ATLIQ management. This data included the cost of manufacturing and freight, which I incorporated to calculate the Total Cost of Goods (total_cogs). Using this information, I further computed key metrics such as Total Gross Margin and Gross Margin Percentage in Power Pivot. These measures allowed me to generate a comprehensive report showcasing the company's total net sales, total cost of goods, overall gross margin, and gross margin percentage across the years 2019, 2020, and 2021. The Gross Margin Percentage provides valuable insights into ATLIQ's profitability by indicating the percentage of revenue retained as profit after deducting production and delivery costs.
+
+![](Profit.PNG)
+
+The analysis reveals that despite achieving the highest net sales in 2021, the Gross Margin Percentage was lower compared to 2019. This suggests that the cost of manufacturing and freight had a greater impact on profitability in 2021.This difference in Gross Margin Percentage could also be attributed to some factors like incurred higher costs of manufacturing and freight, resulting in a lower Gross Margin Percentage. This could be due to increased production expenses, fluctuating raw material costs, or changes in the pricing strategy. 
+
 To view the detail analysis and report of this project, please visit the link: https://docs.google.com/spreadsheets/d/1sCDyxpF9WUP36BZEiiv5CGB6FmLJIzX5/edit?usp=sharing&ouid=109719826952820730410&rtpof=true&sd=true
 
 ## Recommendation
