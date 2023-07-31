@@ -45,7 +45,7 @@ Overall, this process enabled me to clean and transform the dataset efficiently,
 
 ## DAX Measures and Calculations
 
-In this project, I created several DAX measures were to analyze and understand the sales data. These measures provide valuable insights into the sales performance across different periods. The following DAX measures were created:
+In this project, I created several DAX measures which I used to analyze and understand the sales data. These measures provide valuable insights into the sales performance across different periods. The following DAX measures were created:
 - **Net Sales (Total Duration):** This measure calculates the total net sales for the entire three-year duration covered by the fact table. It provides an overview of the overall sales performance during the analyzed period.
 - **Net Sales by Year:** I created three (3) separate measures to calculate the net sales for each individual year - 2019, 2020, and 2021. These measures allow for a detailed examination of the sales performance within specific years, facilitating year-on-year comparisons and identifying trends.
 - **Percentage Net Sales (2020 vs. 2021):** I further created a calculated measure to determine the percentage change in net sales between 2020 and 2021. This measure helps to assess the growth or decline in sales from one year to another, providing insights into the relative performance of these two years.
